@@ -3,7 +3,7 @@ package com.example.user.pingpong;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-public class PingPong extends AppCompatActivity {
+public class PingPong extends ActionBarActivity {
     MySurfaceView view;
 
     @Override
